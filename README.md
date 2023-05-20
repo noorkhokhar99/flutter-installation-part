@@ -2,7 +2,7 @@
 
 
 
-Open Terminal
+ # Open Terminal
 
 Run: nano ~/.zshrc
 
@@ -10,6 +10,11 @@ Add: export PATH=[PATH_TO_FLUTTER_GIT_DIRECTORY]/flutter/bin:$PATH
 
 Run: source ~/.zshrc
 
-restart terminal
+# restart terminal
 
 Run: flutter doctor -v
+
+
+brew install oracle-jdk --cask
+
+
